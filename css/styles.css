@@ -1,0 +1,46 @@
+body {
+    background: beige;
+}
+.ptop7 {
+    padding-top: 7px;
+}
+#complete,
+#nextpage {
+    color: #fff;
+    background-color: #428bca;
+    padding: 10px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+
+#displayContainer {
+    margin-left: 10%;
+}
+.infoHeader {
+    margin-left: 5%;
+}
+.infoDisplayHeader {
+    margin-left: 1%;
+}
+.infoFields {
+    margin-bottom: 10px;
+}
+.control-label {
+    padding-top: 7px;
+    width: 11%;
+    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+.inputSection {
+    width: 80%;
+    display: inline-block;
+}
+input {
+    height: 23px;
+}
